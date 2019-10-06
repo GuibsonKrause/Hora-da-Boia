@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1005149601851",
+    "firebase_url": "https://hora-da-boia.firebaseio.com",
+    "project_id": "hora-da-boia",
+    "storage_bucket": "hora-da-boia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005149601851:android:72e059e1f411ba5c",
+        "android_client_info": {
+          "package_name": "com.example.guibsonoliveira.horadaboia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005149601851-ra997tfj70u3hsqgt096jlb67bk2vpb3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.guibsonoliveira.horadaboia",
+            "certificate_hash": "6eaa884e4c83551df9b82f977943dea72a5d0e83"
+          }
+        },
+        {
+          "client_id": "1005149601851-5tcqlh5ed9k7issg9lep491oo0cm4kkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7g-ePeoC8ix-K2IuxWO54kDr6zLd3qJE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005149601851-5tcqlh5ed9k7issg9lep491oo0cm4kkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
